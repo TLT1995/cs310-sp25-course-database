@@ -29,8 +29,7 @@ public class SectionDAO {
             
             if (conn.isValid(0)) {
                 
-                // INSERT YOUR CODE HERE
-                             
+                // INSERT YOUR CODE HERE              
             }
             
         }
